@@ -1,2 +1,1 @@
---platform=linux/amd64 easzlab/kubeasz-k8s-bin:v1.30.1
---platform=linux/amd64 easzlab/kubeasz:3.6.4
+--platform=linux/amd64 easzlab/kubeasz:3.5.0
