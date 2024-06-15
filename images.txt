@@ -19,3 +19,4 @@
 --platform=linux/amd64 easzlab/alpine-curl:v7.85.0
 --platform=linux/amd64 easzlab/kube-state-metrics:v2.5.0
 --platform=linux/amd64 easzlab/kube-webhook-certgen:v1.2.0
+--platform=linux/amd64 registry:2
