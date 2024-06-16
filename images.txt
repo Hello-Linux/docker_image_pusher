@@ -12,14 +12,13 @@
 --platform=linux/amd64 flannel/flannel:v0.22.2
 --platform=linux/amd64 flannel/flannel-cni-plugin:v1.2.0
 --platform=linux/amd64 easzlab/nfs-subdir-external-provisioner:v4.0.2
---platform=linux/amd64 easzlab/kubeasz-sys-pkg:1.0.0
 --platform=linux/amd64 easzlab/harbor-offline:v2.8.4
 --platform=linux/amd64 easzlab/k8s-dns-node-cache:1.22.23
 --platform=linux/amd64 easzlab/json-mock:v1.3.0
 --platform=linux/amd64 easzlab/alpine-curl:v7.85.0
 --platform=linux/amd64 easzlab/kube-state-metrics:v2.8.2
 --platform=linux/amd64 easzlab/kube-webhook-certgen:v1.5.1
-registry:2
+--platform=linux/amd64 registry:2
 --platform=linux/amd64 bitnami/kubeapps-apis:2.7.0-debian-11-r10
 --platform=linux/amd64 bitnami/kubeapps-apprepository-controller:2.7.0-scratch-r0
 --platform=linux/amd64 bitnami/kubeapps-asset-syncer:2.7.0-scratch-r0
