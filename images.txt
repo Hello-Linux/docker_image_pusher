@@ -18,3 +18,5 @@
 --platform=linux/amd64 registry:2
 --platform=linux/amd64 rancher/local-path-provisioner:v0.0.24
 --platform=linux/amd64 easzlab/kubeasz-sys-pkg:1.0.0_centos_7
+--platform=linux/amd64 flink:1.18.0-java8
+--platform=linux/amd64 openjdk:8u342-oracle
