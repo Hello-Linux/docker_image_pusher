@@ -21,4 +21,5 @@
 --platform=linux/amd64 flink:1.18.0-java8
 --platform=linux/amd64 openjdk:8u342-oracle
 --platform=linux/amd64 mysql:5.7.39
---platform=linux/amd64 minio/minio:RELEASE.2024-03-15T01-07-19Z
+--platform=linux/amd64 minio/minio:RELEASE.2024-03-21T23-13-43Z
+--platform=linux/amd64 minio/mc:RELEASE.2024-03-20T21-07-29Z
