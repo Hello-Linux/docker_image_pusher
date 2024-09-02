@@ -1,1 +1,1 @@
---platform=linux/amd64 redis/latest
+- --platform=linux/amd64 redis/latest
